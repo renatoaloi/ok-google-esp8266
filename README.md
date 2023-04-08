@@ -2,7 +2,7 @@
 Usando Assistente do Google com ESP8266 para atuar sobre uma lâmpada
 
 ## Vídeo-aula
-https://youtu.be/IC2V1a80Lgw
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IC2V1a80Lgw/0.jpg)](https://www.youtube.com/watch?v=IC2V1a80Lgw)
 
 ### Minutagem da aula
 - 00:00 - Intro
