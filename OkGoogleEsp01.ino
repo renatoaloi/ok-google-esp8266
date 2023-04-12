@@ -4,10 +4,6 @@
 #include "Adafruit_MQTT_Client.h"
 
 #define Relay1            0
-//#define Relay2            D5
-//#define Relay3            D2
-//#define Relay4            D1
-
 #define WLAN_SSID       "SEUWIFI"             // Your SSID
 #define WLAN_PASS       "SUASENHA"        // Your password
 
@@ -17,14 +13,6 @@
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME  "username"
 #define AIO_KEY       "chave"   // Replace with your Project Auth Key
-
-/************ Global State (you don't need to change this!) ******************/
-#include <ESP8266WiFi.h>
-#include "Adafruit_MQTT.h"
-#include "Adafruit_MQTT_Client.h"
-
-#define Relay1            0
-
 #define AIO_FEED_NAME1 "/feeds/quarto" // replace with your feed
 
 /************ Global State (you don't need to change this!) ******************/
